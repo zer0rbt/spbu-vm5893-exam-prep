@@ -24,6 +24,7 @@
 |---|---|
 | [`exam_prep/essay.md`](exam_prep/essay.md) | научно-исследовательская часть: опыт, мотивация, аннотация ВКР и результаты (387 слов при норме 300–600) |
 | [`exam_prep/theory.md`](exam_prep/theory.md) | ответы на все 26 вопросов программы: формулировка билета дословно, затем ответ |
+| [`exam_prep/theory_simple.md`](exam_prep/theory_simple.md) | та же теория в сжатом виде — шпаргалка для повторения накануне |
 | [`exam_prep/examples_from_program.md`](exam_prep/examples_from_program.md) | разбор двух примеров практических заданий из программы: SQL-гистограмма и term frequency; заметки про pandas и диалекты SQL |
 | [`exam_prep/analyze_task_1.py`](exam_prep/analyze_task_1.py) | разведочный анализ датасета сделок на pandas, генерирует markdown-отчёт |
 | [`exam_prep/analysis_task_1.md`](exam_prep/analysis_task_1.md) | готовый отчёт по `task_1.parquet` |
