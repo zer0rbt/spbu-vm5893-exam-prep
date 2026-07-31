@@ -1,0 +1,19 @@
+# Анализ данных
+pandas
+numpy
+pyarrow
+tabulate
+
+# SQL-песочница
+duckdb
+
+# Дополнительно: графики, статистика, ML
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+
+# Лемматизация для задачи про term frequency
+pymorphy3
+pymorphy3-dicts-ru

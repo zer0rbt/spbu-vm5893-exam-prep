@@ -1,0 +1,19 @@
+# Учебные данные, раздаваемые факультетом, и материалы приёмной комиссии
+exam_prep/data/
+
+# Сгенерированные отчёты
+exam_prep/report/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Редакторы и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
